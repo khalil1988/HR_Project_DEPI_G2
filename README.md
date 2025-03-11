@@ -31,5 +31,5 @@ The dataset consists of multiple CSV files containing employee information, perf
 # Project Contributors
 	•	[Ahmed Hamdy Ibrahim Khalil]
 	•	[Ahmed Othman]
-	•	[Ehasam Mohamed Aboelfatah]
+	•	[Ehsan Mohamed Aboelfetoh]
 	•	[Ehab abdallah Ali]
